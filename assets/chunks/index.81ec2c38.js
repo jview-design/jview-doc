@@ -1,0 +1,1 @@
+import{w as s}from"./install.22c96530.js";import{o as n,c as e,r}from"./framework.ea9a8087.js";const a={disabled:Boolean},c={class:"j-button"},t={__name:"button",props:a,setup(l){return(o,p)=>(n(),e("button",c,[r(o.$slots,"default")]))}};t.name="JButton";const m=s(t);export{m as B};

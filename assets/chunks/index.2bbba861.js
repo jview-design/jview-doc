@@ -1,1 +1,0 @@
-import{d as o,H as r}from"./framework.0320c551.js";import{w as s}from"./install.519a88e0.js";const a={type:{type:String,default:"default"}},t=o({props:a,setup(e){return()=>{const{type:n}=e;return r("div",null,[n])}}});t.name="JCard";const i=s(t);export{i as C};
